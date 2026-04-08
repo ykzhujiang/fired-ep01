@@ -12,7 +12,7 @@
     "ratio": "9:16",
     "episode": "ep01"
   },
-  "status": "step1.5_done",
+  "status": "step3_in_progress",
   "steps": {
     "step1b": {
       "status": "done",
@@ -30,7 +30,8 @@
       "storyboard_verdict": "PASS"
     },
     "step3": {
-      "status": "not_started"
+      "status": "in_progress",
+      "started_at": "2026-04-08T01:03:14.372640+00:00"
     },
     "step4": {
       "status": "not_started"
