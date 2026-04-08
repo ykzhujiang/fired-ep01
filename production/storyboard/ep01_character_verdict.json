@@ -1,0 +1,84 @@
+{
+  "checked_at": "2026-04-08T01:00:58.292138+00:00",
+  "verdict": "PASS",
+  "storyboard": "ep01.md",
+  "setting": null,
+  "characters": {
+    "陈默": {
+      "completeness": {
+        "pass": true,
+        "missing": []
+      },
+      "image_friendliness": {
+        "pass": true,
+        "vague_terms": []
+      },
+      "setting_consistency": {
+        "pass": true,
+        "note": "No setting specified"
+      },
+      "differentiation": {
+        "pass": true,
+        "similar_to": null
+      }
+    },
+    "刘总": {
+      "completeness": {
+        "pass": true,
+        "missing": []
+      },
+      "image_friendliness": {
+        "pass": true,
+        "vague_terms": []
+      },
+      "setting_consistency": {
+        "pass": true,
+        "note": "No setting specified"
+      },
+      "differentiation": {
+        "pass": true,
+        "similar_to": null
+      }
+    },
+    "HR小姐姐": {
+      "completeness": {
+        "pass": true,
+        "missing": []
+      },
+      "image_friendliness": {
+        "pass": true,
+        "vague_terms": []
+      },
+      "setting_consistency": {
+        "pass": true,
+        "note": "No setting specified"
+      },
+      "differentiation": {
+        "pass": true,
+        "similar_to": null
+      }
+    },
+    "同事B": {
+      "completeness": {
+        "pass": true,
+        "missing": []
+      },
+      "image_friendliness": {
+        "pass": true,
+        "vague_terms": []
+      },
+      "setting_consistency": {
+        "pass": true,
+        "note": "No setting specified"
+      },
+      "differentiation": {
+        "pass": true,
+        "similar_to": null
+      }
+    }
+  },
+  "hard_fails": 0,
+  "soft_warnings": 0,
+  "auto_fixed": true,
+  "fix_rounds": 1
+}
