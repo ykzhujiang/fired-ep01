@@ -1,0 +1,33 @@
+{
+  "project": "fired-ep01",
+  "created_at": "2026-04-08T00:58:15.163031+00:00",
+  "github_repo": "ykzhujiang/fired-ep01",
+  "config": {
+    "theme": "程序员被当众解雇，走出门那一刻超级架构师系统觉醒，逆袭开始",
+    "genre": "sci-fi,drama,comedy",
+    "style": "realistic",
+    "duration": 15,
+    "characters": 4,
+    "setting": "modern-china,tech-office",
+    "ratio": "9:16",
+    "episode": "ep01"
+  },
+  "status": "not_started",
+  "steps": {
+    "step1b": {
+      "status": "not_started"
+    },
+    "step1.5": {
+      "status": "not_started"
+    },
+    "step3": {
+      "status": "not_started"
+    },
+    "step4": {
+      "status": "not_started"
+    },
+    "step6": {
+      "status": "not_started"
+    }
+  }
+}
